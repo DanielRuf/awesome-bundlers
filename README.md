@@ -10,3 +10,4 @@
 [microbundle](https://github.com/developit/microbundle)  
 [parcel](https://github.com/parcel-bundler/parcel)  
 [rollup](https://github.com/rollup/rollup)  
+[sfo](https://github.com/btholt/sfo)  
