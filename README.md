@@ -8,6 +8,7 @@
 ## zero config bundlers
 [bili](https://github.com/egoist/bili)  
 [microbundle](https://github.com/developit/microbundle)  
+[Neutrino](https://github.com/mozilla-neutrino/neutrino-dev)  
 [parcel](https://github.com/parcel-bundler/parcel)  
 [rollup](https://github.com/rollup/rollup)  
 [sfo](https://github.com/btholt/sfo)  
