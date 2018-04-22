@@ -10,5 +10,6 @@
 [microbundle](https://github.com/developit/microbundle)  
 [Neutrino](https://github.com/mozilla-neutrino/neutrino-dev)  
 [parcel](https://github.com/parcel-bundler/parcel)  
+[poi](https://github.com/egoist/poi)  
 [rollup](https://github.com/rollup/rollup)  
 [sfo](https://github.com/btholt/sfo)  
